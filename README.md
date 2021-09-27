@@ -1,13 +1,14 @@
 # <div align="center">I'm George (Austin) Wark, an aspiring web & software developer.</div>  
   
 
-- 🕛 I'm currently working as a sales specialist at a large Toyota dealership while going to school on the side. I just finished my Associate in Computer Science and plan on obtaining my bachelor's in Fall 2022.   
+- 🕛 I'm currently working as a sales specialist at a large Toyota dealership while going to school on the side. I just finished my Associate in Computer Science and plan on obtaining my bachelor's in Fall 2023.   
   
 
 - 💻 The technologies and languages that I am most confident utilizing in web & Android app development include JavaScript (React), Nodejs, Python (Flask), HTML, CSS, MongoDB, Firebase, Java (Android), and MySQL.  
   
 
-- 🖤 I believe that with a strong desire to create something, and the ability to continue to learn and persist in the face of obstacles, one can build just about anything with computer programming. The limitless potential of coding is why I love what I do and will continue to grow and develop my computer programming skills.  
+- 🔥 The limitless potential of computer programming is why I enjoy what I do, and why I will continue to grow and develop my coding skills.
+  
   
 
 <br/>  
